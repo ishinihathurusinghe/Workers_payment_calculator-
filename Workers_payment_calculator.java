@@ -1,4 +1,4 @@
-import java.awt.*                     ;
+import java.awt.*                      ;
 import java.applet.*;
 import java.awt.event.*;
 public class Workers_payment_calculator extends Applet implements ActionListener
